@@ -14,3 +14,4 @@
 
 ![Jhonata's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonataAugust0&show_icons=true&theme=dark)
 
+![JHonata's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataAugust0&layout=compact&theme=dracula)
