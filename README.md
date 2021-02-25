@@ -1,10 +1,6 @@
-# Hello, World! I am a young programmer, scientist and robotics competitor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hello, World! I am a young programmer, scientist and robotics competitor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ## I develop projects that aim to contribute to the improvement of society, I participate in scientific initiation projects and robotics tournaments
 ## I aim to use technology as a means to contribute to an equal society
-
-- 🚀 Trabalho na **Fapeal**
-- 🛠 Techs: HTML5, CSS3, JS, Python, Selenium, Node.js 
-- 📚 Em constante aprendizado **React, React Native, TypeScript**
 
 <a href="https://www.linkedin.com/in/jhonata-augusto-2301541b5/" rel="nofollow"><img src="https://camo.githubusercontent.com/914a9f830f3bc9479f9daee232e62f7af7bde986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6e6f6c6173636f6272756e612f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/jhonata-augusto-2301541b5/" style="max-width:100%;">
 </a> 
@@ -15,3 +11,9 @@
 ![Jhonata's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonataAugust0&show_icons=true&theme=dark)
 
 ![JHonata's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataAugust0&layout=compact&theme=dracula)
+
+**Techs**
+
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)] [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)] [![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)] [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js] [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia)]
+
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)] [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)]
