@@ -1,3 +1,5 @@
+<img src="https://drive.google.com/file/d/1hzFb1ORqpEDV__nF5xKUXf_FReN3Slgl/view?usp=sharing" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"> 
+
 ## Hello, World! I am a young programmer, scientist and robotics competitor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ## I develop projects that aim to contribute to the improvement of society, I participate in scientific initiation projects and robotics tournaments
 ## I aim to use technology as a means to contribute to an equal society
