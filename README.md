@@ -18,7 +18,7 @@
 
 ![Jhonata's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonataAugust0&show_icons=true&theme=dark)
 
-![JHonata's waka time stats](https://github-readme-stats.vercel.app/api/wakatime?username=JhonataAugust0)](https://github.com/JhonataAugust0/github-readme-stats)
+[![JHonata's waka time stats](https://github-readme-stats.vercel.app/api/wakatime?username=JhonataAugust0)](https://github.com/JhonataAugust0/github-readme-stats)]
 
 **Techs**
 
