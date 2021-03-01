@@ -1,4 +1,4 @@
-<img src="https://www.mediafire.com/convkey/0b55/x2glmobvr9sgy36zg.jpg" min-width="400px" max-width="400px" width="400px" align="right" padding-left="5px"; alt="Computador"> 
+<img src="https://www.mediafire.com/convkey/0b55/x2glmobvr9sgy36zg.jpg" min-width="400px" max-width="400px" width="400px" align="right" padding-left="5px" alt="Computador"> 
 
 ## Hello, World! I am a young programmer, scientist and robotics competitor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ## I develop projects that aim to contribute to the improvement of society, I participate in scientific initiation projects and robotics tournaments
