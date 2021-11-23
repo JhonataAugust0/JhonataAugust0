@@ -19,6 +19,6 @@
 
 **Techs**
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)] [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)] [![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)]  [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia)] [![Python](https://img.shields.io/badge/python-v3.7-blue)] [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)] [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)]
+[![Flutter](ttps://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)] [![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)]  [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia)] [![Python](https://img.shields.io/badge/python-v3.7-blue)] [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)] [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)]
 
 ![Manjaro](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=manjaro)] ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)]
