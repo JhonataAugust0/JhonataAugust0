@@ -1,8 +1,7 @@
 <img src="https://www.mediafire.com/convkey/0b55/x2glmobvr9sgy36zg.jpg" min-width="400px" max-width="400px" width="400px" align="right" padding-left="5px" box-shadow="5px" alt="Computador"> 
 
 ## Hello, World! I am a young programmer, scientist and robotics competitor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-## I develop projects that aim to contribute to the improvement of society, I participate in scientific initiation projects and robotics tournaments
-## I aim to use technology as a means to contribute to an equal society
+## I intend to use technology as a means of contributing to society through the creation of projects that add value and make it more dynamic.
 
 <a href="https://www.linkedin.com/in/jhonata-augusto-2301541b5/" rel="nofollow">
   <img src="https://camo.githubusercontent.com/914a9f830f3bc9479f9daee232e62f7af7bde986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6e6f6c6173636f6272756e612f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/jhonata-augusto-2301541b5/" style="max-width:100%;">
