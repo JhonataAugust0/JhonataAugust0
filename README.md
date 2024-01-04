@@ -1,24 +1,22 @@
-<img src="https://www.mediafire.com/convkey/0b55/x2glmobvr9sgy36zg.jpg" min-width="400px" max-width="400px" width="400px" align="right" padding-left="5px" box-shadow="5px" alt="Computador"> 
-
 ## Hello, World! I am a young programmer, scientist and robotics competitor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ## I intend to use technology as a means of contributing to society through the creation of projects that add value and make it more dynamic.
 
 <a href="https://www.linkedin.com/in/jhonata-augusto-2301541b5/" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/914a9f830f3bc9479f9daee232e62f7af7bde986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6e6f6c6173636f6272756e612f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/jhonata-augusto-2301541b5/" style="max-width:100%;">
+  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin-horizontal.svg" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/jhonata-augusto-2301541b5/" style="width:100px;">
 </a> 
 
 <a href="mailto:jhon.augustosilva@gmail.com">
-  <img src="https://camo.githubusercontent.com/4eacfcdbcd0d81c21779cbe99f7e3de5c9360ea2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6272756e616d6e6f6c6173636f40676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:jhon.augustosilva@gmail.com" style="max-width:100%;">
+  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail-horizontal.svg" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:jhon.augustosilva@gmail.com" style="width:100px;">
 </a> 
 
 <a href="https://api.whatsapp.com/send?phone=5582982136275&amp;text=Ol%C3%A1!" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/f19f4e28f53ca6957d89a825bec24cd39e7397c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57686174736170702d3443413134333f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d344341313433266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6170692e77686174736170702e636f6d2f73656e643f70686f6e653d3535313139383336343139313726746578743d4f6c25433325413121" alt="Whatsapp Badge" data-canonical-src="https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&amp;labelColor=4CA143&amp;logo=whatsapp&amp;logoColor=white&amp;link=https://api.whatsapp.com/send?phone=5582982136275&amp;text=Ol%C3%A1!" style="max-width:100%;">
+  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/whatsapp/whatsapp-vertical.svg" alt="Whatsapp Badge" data-canonical-src="https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&amp;labelColor=4CA143&amp;logo=whatsapp&amp;logoColor=white&amp;link=https://api.whatsapp.com/send?phone=5582982136275&amp;text=Ol%C3%A1!" style="width:68px;">
 </a>
 
 ![Jhonata's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonataAugust0&show_icons=true&theme=dark)
 
 **Techs**
 
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)] [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)] [![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]
+[![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)] [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)] [![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]
 
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)] [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)] 
