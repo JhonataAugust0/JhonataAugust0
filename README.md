@@ -1,16 +1,19 @@
 ## Hello, World! I am a programmer, scientist and robotics competitor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ## I want to use technology as a way to contribute to society through solutions that benefit it.
 
-<a href="https://www.linkedin.com/in/jhonata-augusto/" rel="nofollow">
-  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin-horizontal.svg" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/jhonata-augusto-2301541b5/" style="width:100px;">
-</a> 
-
-<a href="mailto:jhon.augustosilva@gmail.com">
-  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail-horizontal.svg" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:jhon.augustosilva@gmail.com" style="width:100px;">
-</a> 
-<a href="https://api.whatsapp.com/send?phone=5582982136275&amp;text=Ol%C3%A1!" rel="nofollow">
-  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/whatsapp/whatsapp-vertical.svg" alt="Whatsapp Badge" data-canonical-src="https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&amp;labelColor=4CA143&amp;logo=whatsapp&amp;logoColor=white&amp;link=https://api.whatsapp.com/send?phone=5582982136275&amp;text=Ol%C3%A1!" style="width:68px;">
-</a>
+<div style="display:flex; flex-direction:row; gap:24px">
+  <a href="https://www.linkedin.com/in/jhonata-augusto/" rel="nofollow">
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin-horizontal.svg" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/jhonata-augusto-2301541b5/" style="width:100px;">
+  </a> 
+  
+  <a href="mailto:jhon.augustosilva@gmail.com">
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail-horizontal.svg" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:jhon.augustosilva@gmail.com" style="width:100px;">
+  </a> 
+  <a href="https://api.whatsapp.com/send?phone=5582982136275&amp;text=Ol%C3%A1!" rel="nofollow">
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/whatsapp/whatsapp-vertical.svg" alt="Whatsapp Badge" data-canonical-src="https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&amp;labelColor=4CA143&amp;logo=whatsapp&amp;logoColor=white&amp;link=https://api.whatsapp.com/send?phone=5582982136275&amp;text=Ol%C3%A1!" style="width:68px;">
+  </a>
+  <a href="https://devbyjhonata.vercel.app">Veja meu portfólio!</a>
+</div>
 
 ![Jhonata's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonataAugust0&show_icons=true&theme=dark)
 
