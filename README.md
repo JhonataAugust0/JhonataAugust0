@@ -1,7 +1,7 @@
 ## Hello, World! I am a programmer, scientist and robotics competitor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ## I want to use technology as a way to contribute to society through solutions that benefit it.
 
-<a href="https://www.linkedin.com/in/jhonata-augusto-2301541b5/" rel="nofollow">
+<a href="https://www.linkedin.com/in/jhonata-augusto/" rel="nofollow">
   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin-horizontal.svg" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/jhonata-augusto-2301541b5/" style="width:100px;">
 </a> 
 
