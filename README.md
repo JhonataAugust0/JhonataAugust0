@@ -1,25 +1,27 @@
-## Hello, World! I am a programmer, scientist and robotics competitor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-## I want to use technology as a way to contribute to society through solutions that benefit it.
+## 👋🏾 Bem-vindo ao meu GitHub!     
 
-<div style="display:flex; flex-direction:row; gap:24px">
-  <a href="https://www.linkedin.com/in/jhonata-augusto/" rel="nofollow">
-    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin-horizontal.svg" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/jhonata-augusto-2301541b5/" style="width:100px;">
-  </a> 
-  
-  <a href="mailto:jhon.augustosilva@gmail.com">
-    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail-horizontal.svg" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:jhon.augustosilva@gmail.com" style="width:100px;">
-  </a> 
-  <a href="https://api.whatsapp.com/send?phone=5582982136275&amp;text=Ol%C3%A1!" rel="nofollow">
-    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/whatsapp/whatsapp-vertical.svg" alt="Whatsapp Badge" data-canonical-src="https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&amp;labelColor=4CA143&amp;logo=whatsapp&amp;logoColor=white&amp;link=https://api.whatsapp.com/send?phone=5582982136275&amp;text=Ol%C3%A1!" style="width:68px;">
-  </a>
-  <a href="https://devbyjhonata.vercel.app">Veja meu portfólio!</a>
-</div>
+Olá! Sou **Jhonata**, um desenvolvedor Full Stack movido pela tecnologia e inovação. Desde 2022, atuo em equipes ágeis, **sempre buscando aprender, crescer e compartilhar conhecimento**.
 
-![Jhonata's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonataAugust0&show_icons=true&theme=dark)
+🧑‍💻 Sobre Mim  
+Desenvolvedor com experiência em **front e back-end, migração de sistemas legados e análise de requisitos técnicos**. Minha curiosidade e formação técnica me levaram a explorar diversas linguagens e ferramentas como Python, Git, Linux, Docker, SQL, PHP, C#, Vue, RabbitMQ e mais.
 
-**Techs**
+📚 Formação    
+Técnico em **informática para internet** pelo SENAC e, atualmente, curso **Sistemas de Informação** na PUC MG.  
 
-[![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)] [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)] [![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)] 
+🌱 O que Estou Aprendendo    
+Focado em **arquitetura de soluções**, aplicações escaláveis, **Cloud Computing** (AWS) e automação com orquestração de containers **(Kubernetes)**.
 
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)] [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]  [<a><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/docker/docker-horizontal.svg" alt="Docker" style="width:120px;"></a>] 
+💬 Vamos Conversar!  
+Estou sempre aberto a discutir sobre desenvolvimento de software, arquitetura de soluções e DevOps. **Vamos nos conectar**!
 
+[LinkedIn](https://www.linkedin.com/in/jhonata-augusto/)  
+[E-mail](mailto:jhon.augustosilva@gmail.com) 
+
+📝 Curiosidades  
+Nas horas vagas, sou um entusiasta de robótica e ciência, com um histórico de sucesso em competições nacionais e internacionais.  
+Quando não estou programando ou lendo, estou **cozinhando**! 🍲  
+
+🚀 Projetos  
+Aqui em baixo você encontra alguns projetos bacanas que refletem meus **aprendizados**. Sinta-se a vontade para explorar e colaborar!
+
+![Jhonata's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonataAugust0&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)
